@@ -41,7 +41,7 @@ const Footer = () => {
               Myshop
             </a>
             <p className="text-gray-600 dark:text-white/70  lg:pr-24 pt-3">
-              My Life Myntra : Failure is not the opposite of Success its a part of Success
+              My Life Mantra : Failure is not the opposite of Success its a part of Success
             </p>
             <p className="text-gray-500 mt-4">
               Made with Passion by Upendra Pathivada
